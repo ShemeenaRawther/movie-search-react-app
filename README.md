@@ -1,12 +1,38 @@
-# React + Vite
+# 🎬 Movie Search React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive React application to search for movies using the [OMDb API](http://www.omdbapi.com/). Type a movie name and instantly get a list of matching titles with details like year, poster, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Real-time movie search
+- 🖼️ Display movie posters and details
+- ⚛️ Built with React and Hooks
+- 🌐 Integrated with OMDb API
+- 💡 Clean UI using basic CSS or Bootstrap (customizable)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (with functional components & hooks)
+- **API:** [OMDb API](http://www.omdbapi.com/)
+- **Styling:** CSS / Bootstrap
+
+---
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/ShemeenaRawther/movie-search-react-app.git
+
+# Navigate into the directory
+cd movie-search-react-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
