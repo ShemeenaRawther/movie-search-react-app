@@ -34,5 +34,5 @@ cd movie-search-react-app
 npm install
 
 # Start the development server
-npm start
+npm run dev
 
